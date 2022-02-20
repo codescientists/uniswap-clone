@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4"
+  }
+}
